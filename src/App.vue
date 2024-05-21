@@ -43,8 +43,8 @@
       infinite
     >
       <q-carousel-slide :name="1" img-src=".//assets/cromboloni.jpeg" />
-      <q-carousel-slide :name="2" img-src=".//assets/basreng.jpeg" />
-      <q-carousel-slide :name="3" img-src=".//assets/donat.jpeg" />
+      <q-carousel-slide :name="2" img-src=".//assets/bsrng.jpeg" />
+      <q-carousel-slide :name="3" img-src=".//assets/donts.jpeg" />
       <q-carousel-slide :name="4" img-src=".//assets/cimol.jpeg"/>
     </q-carousel>
   </div>
